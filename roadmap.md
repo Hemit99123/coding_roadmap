@@ -22,7 +22,7 @@ Tailwinds Docs
 
 Become good at data science by: 
 
-### Learn the basics of pythonL
+### Learn the basics of python
 Python for Beginners - Learn Python in 1 Hour
 
 Learning the stats behind machine learning and why they are important: ​​ Introduction | Mathematics and statistics for data science and machine learning
